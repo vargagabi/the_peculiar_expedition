@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="thepeculiarexpedition:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/thepeculiarexpedition_jar</output-path>
+    <root id="archive" name="thepeculiarexpedition.jar">
+      <element id="module-output" name="thepeculiarexpedition" />
+    </root>
+  </artifact>
+</component>

@@ -21,7 +21,7 @@ Javadoc dokumentacio az src mappan belul
 Ha szeretnel sajat palyat tesztelni, akkor a txt fileban az elso sorban
 eloszor ':'-al elvalasztva add meg a palya magassagat majd szelesseget es utana
 pedig magat a palyat pl.:
-4;5
+4:5
 TTTTT
 TTHTT
 GGGGG
