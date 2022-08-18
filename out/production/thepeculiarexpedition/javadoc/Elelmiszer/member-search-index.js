@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"Targyak","c":"Elelmiszer","l":"Elelmiszer()","url":"%3Cinit%3E()"},{"p":"Targyak","c":"Elelmiszer","l":"Elelmiszer(String, int, int, int)","url":"%3Cinit%3E(java.lang.String,int,int,int)"},{"p":"Targyak","c":"Elelmiszer","l":"getEnergiaErtek()"},{"p":"Targyak","c":"Elelmiszer","l":"toString()"}]

@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"Targyak","c":"Kincs","l":"generateName()"},{"p":"Targyak","c":"Kincs","l":"Kincs()","url":"%3Cinit%3E()"},{"p":"Targyak","c":"Kincs","l":"Kincs(String, int)","url":"%3Cinit%3E(java.lang.String,int)"},{"p":"Targyak","c":"Kincs","l":"kincsnevek"},{"p":"Targyak","c":"Kincs","l":"toString()"}]

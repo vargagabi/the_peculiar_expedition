@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"<Unnamed>","c":"Rivalis","l":"getHirnev()"},{"p":"<Unnamed>","c":"Rivalis","l":"getNev()"},{"p":"<Unnamed>","c":"Rivalis","l":"hirnevNovel(int)"},{"p":"<Unnamed>","c":"Rivalis","l":"nevFeltoltes()"},{"p":"<Unnamed>","c":"Rivalis","l":"randomNev()"},{"p":"<Unnamed>","c":"Rivalis","l":"Rivalis(String)","url":"%3Cinit%3E(java.lang.String)"}]
