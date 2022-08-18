@@ -1,6 +1,6 @@
-package Jatekos;
+package com.example.thepeculiarexpedition.Jatekos;
 
-import Targyak.Elelmiszer;
+import com.example.thepeculiarexpedition.Targyak.Elelmiszer;
 
 /**
  * A felfedezot megvalosito osztaly. Itt taroljuk a felfedezo adatait, a csapattarsait stb...

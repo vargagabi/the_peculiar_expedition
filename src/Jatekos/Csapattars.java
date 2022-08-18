@@ -1,4 +1,4 @@
-package Jatekos;
+package com.example.thepeculiarexpedition.Jatekos;
 
 import java.util.Scanner;
 
